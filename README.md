@@ -17,7 +17,7 @@
 <br />
 <img align="right" alt="GIF" src="https://github.com/yusufokaraman/yusufokaraman/blob/main/rick.gif" />
 
-###  I am Yusuf!
+###  I am Yusuf
 - A Electronics and Communication Engineer Student & Full Stack Developer.
 - Currently working on some of my cool side projects based on Web Development, Electronics and Blockchain.
 - I'm currently looking for opportunities. I love working with new technologies, following academic articles and the journey of gaining new experience.
