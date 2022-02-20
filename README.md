@@ -15,7 +15,7 @@
 </a>
 
 <br />
-<img align="right" alt="GIF" src="https://github.com/yusufokaraman/yusufokaraman/blob/master/rick.gif" />
+<img align="right" alt="GIF" src="https://github.com/yusufokaraman/yusufokaraman/blob/main/rick.gif" />
 
 ###  I am Yusuf!
 - A Electronics and Communication Engineer Student & Full Stack Developer.
