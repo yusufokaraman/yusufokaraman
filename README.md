@@ -1,4 +1,4 @@
-## Hello World! <img src="https://github.com/yusufokaraman/yusufokaraman/blob/main/Hi.gif" width="30px"></h2>
+## Hello World! <img src="https://github.com/yusufokaraman/yusufokaraman/blob/main/Hi.gif" width="30px">
 
 <a href="https://twitter.com/yusufokaraman">
   <img align="left" alt="Yusuf's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
